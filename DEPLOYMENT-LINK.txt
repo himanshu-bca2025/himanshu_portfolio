@@ -1,0 +1,43 @@
+========================================
+  VERCEL DEPLOYMENT INFORMATION
+========================================
+
+⚠️  Please run the script to get your deployment URL:
+   .\get-deployment-url.ps1
+
+OR manually add your deployment URL below:
+
+Deployment URL: [ADD YOUR URL HERE]
+Example: https://your-project-name.vercel.app
+
+========================================
+  HOW TO GET YOUR DEPLOYMENT URL
+========================================
+
+Method 1: Vercel Dashboard
+---------------------------
+1. Go to https://vercel.com/dashboard
+2. Click on your project
+3. Copy the deployment URL from the top
+4. It will look like: https://project-name.vercel.app
+
+Method 2: From Deployment Email
+--------------------------------
+Check your email for Vercel deployment notification
+The URL will be in the email
+
+Method 3: From Browser
+-----------------------
+If you opened the deployment, check your browser address bar
+
+========================================
+  AFTER ADDING URL
+========================================
+
+Run this command to save it properly:
+   .\get-deployment-url.ps1
+
+Or manually edit this file and add your URL above.
+
+========================================
+
